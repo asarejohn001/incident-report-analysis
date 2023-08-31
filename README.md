@@ -12,4 +12,7 @@ Created a plan to improve a company’s network security, following the National
 
 4. **Responded** to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
-4. **Recovered** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+4. **Recovered** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
+
+## Solution
+Read the [incident report analysis]() I created. 
